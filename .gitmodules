@@ -1,0 +1,4 @@
+[submodule "ananyakhare/public"]
+	path = ananyakhare/public
+	url = https://github.com/ananya-khare/ananya-khare.github.io.git
+	branch = main
