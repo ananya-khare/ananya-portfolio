@@ -30,7 +30,6 @@ markup:
 
 params:
   title: "Ananya Khare"
-  description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   
 
@@ -85,7 +84,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/Ananya Khare.pdf"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
